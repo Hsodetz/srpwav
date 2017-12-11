@@ -1,0 +1,5 @@
+<div class="form-group">
+
+	{{ Form::text('nombre', ['class' => 'form-control']) }}
+
+</div>
